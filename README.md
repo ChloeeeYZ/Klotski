@@ -21,6 +21,7 @@ must be moved to a special area designated by the game board. The player is not 
 remove blocks, and may only slide blocks horizontally and vertically. Common goals are to solve
 the puzzle with a minimum number of moves or in a minimum amount of time.
 
+
 Attribution:
 
 Yahe Zhang:
