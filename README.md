@@ -35,3 +35,6 @@ Antony Zhuang:
 Audio - The functionality is achieved through a polling mechanism; Upon reaching specific milestones, which are detecting a legal movement or clearing a level, the corresponding audio samples are dynamically filled into the designated audio address.
 
 PS2 Keyboard - The system operates through a polling mechanism. When a user inputs a valid command by pressing the keys on PS2 Keyboard, the function converts this signal into another signal from the Game Logic to advance the game.
+
+Reference List:
+[1] https://en.m.wikipedia.org/wiki/Klotski
